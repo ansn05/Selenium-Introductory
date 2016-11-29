@@ -1,0 +1,14 @@
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\geckodriver.exe
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\chromedriver.exe
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\chromedriver-license.txt
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\SeleniumTraining.dll
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\SeleniumTraining.pdb
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\WebDriver.dll
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\WebDriver.Support.dll
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\WebDriver.xml
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\WebDriver.Support.xml
+F:\AS\Development\SeleniumTraining\SeleniumTraining\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\AS\Development\SeleniumTraining\SeleniumTraining\obj\Debug\SeleniumTraining.csprojResolveAssemblyReference.cache
+F:\AS\Development\SeleniumTraining\SeleniumTraining\obj\Debug\SeleniumTraining.dll
+F:\AS\Development\SeleniumTraining\SeleniumTraining\obj\Debug\SeleniumTraining.pdb
