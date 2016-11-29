@@ -25,8 +25,8 @@ namespace SeleniumTraining
         public  void LogInAsAdmin()
         {
             BaseTest.GoTo();
-            BaseTest.LoginAs("ansntest")
-                .withPassword("tester666")
+            BaseTest.LoginAs("")
+                .withPassword("")
                 .Login();
         }
     }
